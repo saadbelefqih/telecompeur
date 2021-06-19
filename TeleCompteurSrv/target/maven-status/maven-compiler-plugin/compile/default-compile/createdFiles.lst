@@ -1,0 +1,11 @@
+com\telecompteursrv\model\Zone.class
+com\telecompteursrv\model\Client.class
+com\telecompteursrv\service\ClientService.class
+com\telecompteursrv\model\Utilisateur.class
+com\telecompteursrv\Main.class
+com\telecompteursrv\config\Cnx_DB.class
+com\telecompteursrv\model\CompteurDetails.class
+com\telecompteursrv\config\Poste.class
+com\telecompteursrv\config\Genre.class
+com\telecompteursrv\model\Compteur.class
+com\telecompteursrv\model\Responsable.class
